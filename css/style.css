@@ -16,6 +16,11 @@ body {
   box-sizing: border-box;
 }
 
+h1{
+  color: blue;
+  font-size: 20px;
+}
+
 .credits {
   color: #777;
   position: fixed;
